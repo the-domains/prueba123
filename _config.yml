@@ -1,0 +1,28 @@
+name: Prueba123
+favicon: null
+layout_spectrum: 0.10186515818350017
+typography_spectrum: 0.6378730034921318
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7007793425582349
+  lightness: 0.15137654566206038
+  saturation: 0.34318716055713594
+  rhythmicContrast: 0.6748615670949221
+purpose: []
